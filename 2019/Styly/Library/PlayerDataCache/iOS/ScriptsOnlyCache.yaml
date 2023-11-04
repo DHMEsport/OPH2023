@@ -1,0 +1,67 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    FeatureComponents.dll:
+    - STYLY.Interaction.SDK.V1.STYLY_Action_Mover
+    - STYLY.Interaction.SDK.V1.STYLY_Action_Timer
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.RiderScriptEditorData
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  sceneClasses:
+    Assets/Scenes/f96076f5-27c5-4528-92ea-6b2d78dfc6c9.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11448}
+    - Class: 114
+      Script: {instanceID: 13542}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: f5768608f5dcbe3fae29f80171579892
+    assemblyName: FeatureComponents.dll
+    namespaceName: STYLY.Interaction.SDK.V1
+    className: STYLY_Action_Timer
+  - hash:
+      serializedVersion: 2
+      Hash: 4011530c61fd8b89cde1676a2be92407
+    assemblyName: FeatureComponents.dll
+    namespaceName: STYLY.Interaction.SDK.V1
+    className: STYLY_Action_Mover
+  platform: 9
+  scenePathNames:
+  - Assets/Scenes/f96076f5-27c5-4528-92ea-6b2d78dfc6c9.unity
+  playerPath: /Users/sarabun/Documents/Git-Project/OPH2023/2019/Styly/_Output/STYLY_ASSET/iOS/f96076f5-27c5-4528-92ea-6b2d78dfc6c9
