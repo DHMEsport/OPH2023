@@ -1,16 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 73116be96c8e03b4ea9826f213351eca, type: 3}
-  m_Name: PluginUpdateNotifierSettings
-  m_EditorClassIdentifier: 
-  showAtStartup: 1
-  skipVersion: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea5f6bf9d31a0cfe027be8cb0a7d31562736c70a48c079ae0e518d33a35208ec
+size 468
