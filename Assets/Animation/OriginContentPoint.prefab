@@ -415,6 +415,7 @@ Transform:
   m_Children:
   - {fileID: 5335918215403168390}
   - {fileID: 6161236880938684893}
+  - {fileID: 4674669002458149864}
   m_Father: {fileID: 3546181698888453647}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -558,6 +559,25 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0000000011641532, y: 0.0067435834, z: -0.00005662674}
     m_Extent: {x: 0.0063061165, y: 0.009724907, z: 0.0055565936}
   m_DirtyAABB: 0
+--- !u!95 &4541397372175765170
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5445997761616701778}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f738b20c4f58ed44f898641aeac24bfa, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &5806044861418383564
 GameObject:
   m_ObjectHideFlags: 0
@@ -685,3 +705,84 @@ Transform:
   m_Father: {fileID: 5335918215403168390}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5140150673478865923
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3944071398780023320}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_Name
+      value: Kidney Tribes Force_1.0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc2ed254d275aea489963f2edcc4db74, type: 3}
+--- !u!1 &5445997761616701778 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bc2ed254d275aea489963f2edcc4db74,
+    type: 3}
+  m_PrefabInstance: {fileID: 5140150673478865923}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4674669002458149864 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bc2ed254d275aea489963f2edcc4db74,
+    type: 3}
+  m_PrefabInstance: {fileID: 5140150673478865923}
+  m_PrefabAsset: {fileID: 0}
