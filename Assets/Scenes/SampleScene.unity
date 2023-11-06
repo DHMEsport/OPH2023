@@ -363,6 +363,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ExportFinalMayBe3
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 5d316400629691048bfca8f3dd229964,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e5525ad1d24ca5745a5b31905f380f9d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d316400629691048bfca8f3dd229964, type: 3}
 --- !u!1001 &1119201277
@@ -432,6 +437,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ExportFinalMayBe4
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: b5692128fe22bfe4085417a83e0372c7,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 021080cf4999f424cbac1463381be814, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5692128fe22bfe4085417a83e0372c7, type: 3}
 --- !u!4 &543450652908525688
