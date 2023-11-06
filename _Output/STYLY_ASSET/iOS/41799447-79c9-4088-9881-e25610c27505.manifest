@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2921486108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35faf02f120bef3897741cebba305e97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91c052f5f99d0487dbd7bc38bf3c7181
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/41799447-79c9-4088-9881-e25610c27505.prefab
+Dependencies: []
