@@ -1009,11 +1009,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: OriginContentPoint_Button
       objectReference: {fileID: 0}
-    - target: {fileID: 6242477047255944327, guid: 9a5c12498d456194e8713261eb3580df,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a5c12498d456194e8713261eb3580df, type: 3}
 --- !u!1 &6293939468391079070
