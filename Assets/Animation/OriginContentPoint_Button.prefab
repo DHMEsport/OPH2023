@@ -501,7 +501,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2941331983063487048, guid: 2d8a404415e809e4eb3b4b00a7a18428, type: 3}
+  - {fileID: 2100000, guid: 6d3567c9d9f997146b1580a9f7577b12, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1871,7 +1871,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4.2
+          value: 5.2
         - useVariable: 0
           name: 
           tooltip: 
@@ -2192,7 +2192,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4.2
+          value: 9.2
         - useVariable: 0
           name: 
           tooltip: 
@@ -4194,6 +4194,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kidney Tribes Force_1.0
       objectReference: {fileID: 0}
+    - target: {fileID: 7926839288223873370, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926839288223873370, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 157d8630106a01c4d9990c0a5e5802e5, type: 2}
+    - target: {fileID: 7926839288223873370, guid: bc2ed254d275aea489963f2edcc4db74,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7328b1c33efdd614ba2c6f2bbfa64712, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc2ed254d275aea489963f2edcc4db74, type: 3}
 --- !u!1 &6512436083528386624 stripped
